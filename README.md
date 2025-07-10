@@ -17,7 +17,6 @@ A smart AI-powered application that transforms your lecture videos into interact
 
 ### 1. Clone & Setup
 ```bash
-git clone <your-repo-url>
 cd lecture
 ```
 
